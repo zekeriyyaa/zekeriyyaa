@@ -1,16 +1,18 @@
-### Hi there 👋
+<h1 align="center">Hello everyone, I'm Zekeriyya Demirci <img src="https://github.com/zekeriyyaa/zekeriyyaa/blob/main/wave.gif" align="center" width="30px">  </h1>
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=zekeriyyaa" alt="zekeriyyaa" /> </p>
 
-<!--
-**zekeriyyaa/zekeriyyaa** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+### I'm a computer engineer. I'm from Turkey, living in Eskişehir and currently working at [CISAR](https://cisar.ogu.edu.tr).
 
-Here are some ideas to get you started:
+### &#x1F514; Social Media 
+[![](https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/zekeriyya-demirci-944724160//) 
+[![](https://img.shields.io/badge/medium-%2312100E.svg?&style=for-the-badge&logo=medium&logoColor=white)](https://medium.com/@zekeriyyademirci)
+[![](https://img.shields.io/badge/twitter-%231DA1F2.svg?&style=for-the-badge&logo=twitter&logoColor=white)](https://twitter.com/zekeriyyaa_)
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### &#x1F4E8; Email me : zekeriyya.demircii@gmail.com
+
+### &#x1f4c8; GitHub Stats
+<a href="https://github.com/zekeriyyaa">
+  <img align="center" src="https://github-readme-stats.vercel.app/api?username=zekeriyyaa&show_icons=true&line_height=27&count_private=true&title_color=ffffff&text_color=c9cacc&icon_color=2bbc8a&bg_color=1d1f21" alt="Zekeriyya's GitHub Stats" />
+</a>
+
+
