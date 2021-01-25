@@ -1,7 +1,7 @@
 <h1 align="center">Hello everyone, I'm Zekeriyya Demirci <img src="https://github.com/zekeriyyaa/zekeriyyaa/blob/main/wave.gif" align="center" width="30px">  </h1>
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=zekeriyyaa" alt="zekeriyyaa" /> </p>
 
-### I'm a computer engineer. I'm from Turkey, living in Eskişehir and currently working at [CISAR](https://cisar.ogu.edu.tr).
+### I'm a computer engineer. I'm from Turkey, living in Eskişehir, currently working at [CISAR](https://cisar.ogu.edu.tr) and contributing on [Valu3s](https://valu3s.eu)
 
 <h2 align="center">Social Media</h2>
 
@@ -24,7 +24,8 @@
   <code><img title="Problem Solving" height="25" src="https://github.com/zekeriyyaa/zekeriyyaa/blob/main/images/problemSolving.png"></code>
   <code><img title="Visual Studio Code" height="25" src="https://github.com/zekeriyyaa/zekeriyyaa/blob/main/images/vscode.png"></code>
   <code><img title="Microsoft Visual Studio" height="25" src="https://github.com/zekeriyyaa/zekeriyyaa/blob/main/images/visualstudio.png"></code>
-    <code><img title="Pycharm" height="25" src="https://github.com/zekeriyyaa/zekeriyyaa/blob/main/images/pycharm.png"></code>
+  <code><img title="Pycharm" height="25" src="https://github.com/zekeriyyaa/zekeriyyaa/blob/main/images/pycharm.png"></code>
+  <code><img title="Apache Spark" height="25" src="https://github.com/zekeriyyaa/zekeriyyaa/blob/main/images/spark.png"></code>
   <code><img title="JSON" height="25" src="https://github.com/zekeriyyaa/zekeriyyaa/blob/main/images/json.svg"></code>
 </p>
 
