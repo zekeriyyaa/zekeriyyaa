@@ -12,8 +12,23 @@
   <code><a href="https://stackoverflow.com/users/12538781/zekeriyya-demirci" title="Stack Overflow Profile"><img width="22" src="https://github.com/zekeriyyaa/zekeriyyaa/blob/main/images/stackoverflow.svg"> Stack Overflow</a></code>
     <code><a href="https://twitter.com/zekeriyyaa_" title="Twitter Profile"><img width="22" src="https://github.com/zekeriyyaa/zekeriyyaa/blob/main/images/twitter.svg"> Twitter</a></code>
       <code><a href="https://medium.com/@zekeriyyademirci" title="Medium Profile"><img width="22" src="https://github.com/zekeriyyaa/zekeriyyaa/blob/main/images/medium.svg"> Medium</a></code>
-
 <br>
+
+<h2 align="center">Languages & Frameworks & Tools & Abilities</h2>
+
+<p align="center">
+  <code><img title="C" height="25" src="https://github.com/zekeriyyaa/zekeriyyaa/blob/main/images/c.svg"></code>
+  <code><img title="C++" height="25" src="https://github.com/zekeriyyaa/zekeriyyaa/blob/main/images/cpp.svg"></code>
+  <code><img title="C#" height="25" src="https://github.com/zekeriyyaa/zekeriyyaa/blob/main/images/cSharp.svg"></code>
+  <code><img title="Python" height="25" src="https://github.com/zekeriyyaa/zekeriyyaa/blob/main/images/python-original.svg"></code>
+  <code><img title="Problem Solving" height="25" src="https://github.com/zekeriyyaa/zekeriyyaa/blob/main/images/problemSolving.png"></code>
+  <code><img title="Visual Studio Code" height="25" src="https://github.com/zekeriyyaa/zekeriyyaa/blob/main/images/vscode.png"></code>
+  <code><img title="Microsoft Visual Studio" height="25" src="https://github.com/zekeriyyaa/zekeriyyaa/blob/main/images/visualstudio.png"></code>
+    <code><img title="Pycharm" height="25" src="https://github.com/zekeriyyaa/zekeriyyaa/blob/main/images/pycharm.png"></code>
+  <code><img title="JSON" height="25" src="https://github.com/zekeriyyaa/zekeriyyaa/blob/main/images/json.svg"></code>
+</p>
+
+
 
 ### &#x1F4E8; Email me : zekeriyya.demircii@gmail.com
 
