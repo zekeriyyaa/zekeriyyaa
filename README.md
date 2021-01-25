@@ -3,8 +3,7 @@
 
 ### I'm a computer engineer. I'm from Turkey, living in Eskişehir and currently working at [CISAR](https://cisar.ogu.edu.tr).
 
-
-<h3 align="center"><code> &#x1F514; Social Media </code></h3>
+<h2 align="center">Social Media</h2>
 
 <h5 align="center">
   <code>
