@@ -11,6 +11,7 @@
   <code><a href="https://stackoverflow.com/users/12538781/zekeriyya-demirci" title="Stack Overflow Profile"><img width="22" src="https://github.com/zekeriyyaa/zekeriyyaa/blob/main/images/stackoverflow.svg"> Stack Overflow</a></code>
     <code><a href="https://twitter.com/zekeriyyaa_" title="Twitter Profile"><img width="22" src="https://github.com/zekeriyyaa/zekeriyyaa/blob/main/images/twitter.svg"> Twitter</a></code>
       <code><a href="https://medium.com/@zekeriyyademirci" title="Medium Profile"><img width="22" src="https://github.com/zekeriyyaa/zekeriyyaa/blob/main/images/medium.svg"> Medium</a></code>
+        <code><a href="https://dev.to/zekeriyyaa_" title="Dev Community Profile"><img width="22" src="https://github.com/zekeriyyaa/zekeriyyaa/blob/main/images/dev.svg"> Dev</a></code>
 <br>
 
 <h2 align="center">Languages & Frameworks & Tools & Abilities</h2>
