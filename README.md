@@ -4,6 +4,17 @@
 ### I'm a computer engineer. I'm from Turkey, living in Eskişehir and currently working at [CISAR](https://cisar.ogu.edu.tr).
 
 ### &#x1F514; Social Media 
+
+<h5 align="center">
+  <code>
+    <a href="https://www.linkedin.com/in/zekeriyya-demirci-944724160" title="LinkedIn Profile"><img width="22" src="https://github.com/zekeriyyaa/zekeriyyaa/blob/main/images/linkedin.svg"> LinkedIn</a></code>
+  <code><a href="https://www.hackerrank.com/zekeriyyademirc1" title="HackerRank Profile"><img width="22" src="https://github.com/zekeriyyaa/zekeriyyaa/blob/main/images/hackerrank.png"> HackerRank</a></code>
+  <code><a href="https://stackoverflow.com/users/12538781/zekeriyya-demirci" title="Stack Overflow Profile"><img width="22" src="https://github.com/zekeriyyaa/zekeriyyaa/blob/main/images/stackoverflow.svg"> Stack Overflow</a></code>
+    <code><a href="https://twitter.com/zekeriyyaa_" title="Twitter Profile"><img width="22" src="https://github.com/zekeriyyaa/zekeriyyaa/blob/main/images/twitter.svg"> Twitter</a></code>
+</h5>
+<br>
+
+
 [![](https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/zekeriyya-demirci-944724160//) 
 [![](https://img.shields.io/badge/medium-%2312100E.svg?&style=for-the-badge&logo=medium&logoColor=white)](https://medium.com/@zekeriyyademirci)
 [![](https://img.shields.io/badge/twitter-%231DA1F2.svg?&style=for-the-badge&logo=twitter&logoColor=white)](https://twitter.com/zekeriyyaa_)
