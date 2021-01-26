@@ -25,11 +25,9 @@
   <code><img title="Visual Studio Code" height="25" src="https://github.com/zekeriyyaa/zekeriyyaa/blob/main/images/vscode.png"></code>
   <code><img title="Microsoft Visual Studio" height="25" src="https://github.com/zekeriyyaa/zekeriyyaa/blob/main/images/visualstudio.png"></code>
   <code><img title="Pycharm" height="25" src="https://github.com/zekeriyyaa/zekeriyyaa/blob/main/images/pycharm.png"></code>
-  
   <code><img title="MsSQL" height="25" src="https://github.com/zekeriyyaa/zekeriyyaa/blob/main/images/mssql.png"></code>
   <code><img title="MySQL" height="25" src="https://github.com/zekeriyyaa/zekeriyyaa/blob/main/images/mysql.png"></code>
   <code><img title="MongoDB" height="25" src="https://github.com/zekeriyyaa/zekeriyyaa/blob/main/images/mongodb.png"></code>
-  
   <code><img title="Apache Spark" height="25" src="https://github.com/zekeriyyaa/zekeriyyaa/blob/main/images/spark.png"></code>
   <code><img title="JSON" height="25" src="https://github.com/zekeriyyaa/zekeriyyaa/blob/main/images/json.svg"></code>
 </p>
