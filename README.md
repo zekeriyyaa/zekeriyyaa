@@ -14,23 +14,6 @@
         <code><a href="https://dev.to/zekeriyyaa_" title="Dev Community Profile"><img width="22" src="https://github.com/zekeriyyaa/zekeriyyaa/blob/main/images/dev.svg"> Dev</a></code>
 <br>
 
-<h2 align="center">Languages & Frameworks & Tools & Abilities</h2>
-
-<p align="center">
-  <code><img title="C" height="25" src="https://github.com/zekeriyyaa/zekeriyyaa/blob/main/images/c.svg"></code>
-  <code><img title="C++" height="25" src="https://github.com/zekeriyyaa/zekeriyyaa/blob/main/images/cpp.svg"></code>
-  <code><img title="C#" height="25" src="https://github.com/zekeriyyaa/zekeriyyaa/blob/main/images/cSharp.svg"></code>
-  <code><img title="Python" height="25" src="https://github.com/zekeriyyaa/zekeriyyaa/blob/main/images/python-original.svg"></code>
-  <code><img title="Problem Solving" height="25" src="https://github.com/zekeriyyaa/zekeriyyaa/blob/main/images/problemSolving.png"></code>
-  <code><img title="Visual Studio Code" height="25" src="https://github.com/zekeriyyaa/zekeriyyaa/blob/main/images/vscode.png"></code>
-  <code><img title="Microsoft Visual Studio" height="25" src="https://github.com/zekeriyyaa/zekeriyyaa/blob/main/images/visualstudio.png"></code>
-  <code><img title="Pycharm" height="25" src="https://github.com/zekeriyyaa/zekeriyyaa/blob/main/images/pycharm.png"></code>
-  <code><img title="MsSQL" height="25" src="https://github.com/zekeriyyaa/zekeriyyaa/blob/main/images/mssql.svg"></code>
-  <code><img title="MySQL" height="25" src="https://github.com/zekeriyyaa/zekeriyyaa/blob/main/images/mysql.svg"></code>
-  <code><img title="MongoDB" height="25" src="https://github.com/zekeriyyaa/zekeriyyaa/blob/main/images/mongodb.svg"></code>
-  <code><img title="Apache Spark" height="25" src="https://github.com/zekeriyyaa/zekeriyyaa/blob/main/images/spark.png"></code>
-  <code><img title="JSON" height="25" src="https://github.com/zekeriyyaa/zekeriyyaa/blob/main/images/json.svg"></code>
-</p>
 
 
 
