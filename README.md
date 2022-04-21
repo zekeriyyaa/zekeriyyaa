@@ -1,7 +1,8 @@
 <h1 align="center">Hello everyone, I'm Zekeriyya Demirci <img src="https://github.com/zekeriyyaa/zekeriyyaa/blob/main/wave.gif" align="center" width="30px">  </h1>
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=zekeriyyaa" alt="zekeriyyaa" /> </p>
 
-### I'm a computer engineer from Turkey, living in Eskişehir, currently working at [Esogu](https://www.ogu.edu.tr) as a research assistant and contributing to [Valu3s](https://valu3s.eu) at [CISAR](https://cisar.ogu.edu.tr). And also continue master's degree in robotics at [Esogu](https://www.ogu.edu.tr).
+### I'm a computer engineer from Turkey, living in Eskişehir, currently working at [Esogu](https://www.ogu.edu.tr) as a research assistant and contributing to [Valu3s](https://valu3s.eu) at [CISAR](https://cisar.ogu.edu.tr). And also continue master's degree in robotics at [Esogu](https://www.ogu.edu.tr). 
+
 <h2 align="center">Social Media</h2>
 
 <h5 align="center">
