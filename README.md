@@ -1,7 +1,7 @@
 <h1 align="center">Hello everyone, I'm Zekeriyya Demirci <img src="https://github.com/zekeriyyaa/zekeriyyaa/blob/main/wave.gif" align="center" width="30px" height="30px">  </h1>
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=zekeriyyaa" alt="zekeriyyaa" /> </p>
 
-### I'm a computer engineer from Turkey, living in Eskişehir, currently working at [Bentego](https://bentego.com) as a Data Engineer. 
+### I'm a computer engineer from Turkey, living in Eskişehir, currently working as a Data Engineer. 
 
 <h2 align="center">Social Media</h2>
 
