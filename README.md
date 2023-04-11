@@ -7,7 +7,7 @@
 
 <h5 align="center">
   <code>
-    <a href="https://www.linkedin.com/in/zekeriyya-demirci-944724160" title="LinkedIn Profile"><img width="22" src="https://github.com/zekeriyyaa/zekeriyyaa/blob/main/images/linkedin.svg"> LinkedIn</a></code>
+    <a href="https://www.linkedin.com/in/zekeriyyademirci" title="LinkedIn Profile"><img width="22" src="https://github.com/zekeriyyaa/zekeriyyaa/blob/main/images/linkedin.svg"> LinkedIn</a></code>
         <code><a href="https://medium.com/@zekeriyyademirci" title="Medium Profile"><img width="22" src="https://github.com/zekeriyyaa/zekeriyyaa/blob/main/images/medium.svg"> Medium</a></code>
   <code><a href="https://leetcode.com/user6651DW" title="LeetCode Profile"><img width="22" src="https://github.com/zekeriyyaa/zekeriyyaa/blob/main/images/leet_code.png"> LeetCode</a></code>
   <code><a href="https://www.hackerrank.com/zekeriyyademirc1" title="HackerRank Profile"><img width="22" src="https://github.com/zekeriyyaa/zekeriyyaa/blob/main/images/hackerrank.png"> HackerRank</a></code>
